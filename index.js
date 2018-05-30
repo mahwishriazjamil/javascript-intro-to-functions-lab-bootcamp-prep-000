@@ -15,6 +15,19 @@ function logWhisper(string){
   console.log(string.toLowerCase)
   
 }
+
+function sayHiToGrandma(string){
+  
+  if (string === string.toLowerCase){
+    return "I can't hear you!"
+  }
+  
+  if (string === string.toUpperCase){
+    return "YES INDEED!"
+  }
+  
+  if (string ===)
+}
 // describe('logShout(string)', function() {
 //   it('calls console.log() its one argument in all caps', function() {
 //     const spy = expect.spyOn(console, 'log').andCallThrough()
