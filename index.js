@@ -26,7 +26,9 @@ function sayHiToGrandma(string){
     return "YES INDEED!"
   }
   
-  if (string ===)
+  if (string === "I love you, Grandma."){
+    return "I love you, too."
+  }
 }
 // describe('logShout(string)', function() {
 //   it('calls console.log() its one argument in all caps', function() {
