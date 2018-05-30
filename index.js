@@ -23,5 +23,7 @@ function whisper(string){
 // })
 
 function logShout(string){
+  
+  console.log(spy.andCallThrough)
   console.log(string.toUpperCase)
 }
